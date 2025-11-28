@@ -20,4 +20,4 @@ print(df[df["tournament"]!="Friendly"])
 
 print(df[df["date"]>"2025-10-13"])
 
-print(df[df["country"]=="japan"])
+print(df[df["country"]=="Japan"])
